@@ -94,7 +94,7 @@
 		"notification.warningForeground": "#ffffff",
 		"notification.errorBackground": "#e61f44",
 		"notification.errorForeground": "#ffffff",
-		"terminal.background": "#1b1c1e",
+		"terminal.background": "#1d4b55",
 		"terminal.foreground": "#5f656d",
 		"editorGutter.modifiedBackground": "#f7b83d",
 		"editorGutter.addedBackground": "#a7da1e",
