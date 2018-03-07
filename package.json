@@ -1,0 +1,22 @@
+{
+    "name": "cerin-stealth",
+    "displayName": "cerin-stealth",
+    "description": "vscode dark theme",
+    "version": "0.0.1",
+    "publisher": "cerinman",
+    "engines": {
+        "vscode": "^1.21.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "cerin-stealth",
+                "uiTheme": "vs-dark",
+                "path": "./themes/cerin-stealth-color-theme.json"
+            }
+        ]
+    }
+}
