@@ -145,14 +145,14 @@
 			"name": "String",
 			"scope": "string",
 			"settings": {
-				"foreground": "#545a60"
+				"foreground": "#82754b"
 			}
 		},
 		{
 			"name": "Number",
 			"scope": "constant.numeric",
 			"settings": {
-				"foreground": "#545a60"
+				"foreground": "#294982"
 			}
 		},
 		{
