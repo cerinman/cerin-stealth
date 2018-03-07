@@ -84,16 +84,6 @@
 		"sideBarSectionHeader.background": "#3a3d40",
 		"sideBarSectionHeader.foreground": "#5f656d",
 		"titleBar.activeBackground": "#1d1f20",
-		"notification.foreground": "#5f656d",
-		"notification.background": "#333638",
-		"notification.buttonBackground": "#3c4044",
-		"notification.buttonForeground": "#ffffff",
-		"notification.infoBackground": "#9d37fc",
-		"notification.infoForeground": "#ffffff",
-		"notification.warningBackground": "#f7b83d",
-		"notification.warningForeground": "#ffffff",
-		"notification.errorBackground": "#e61f44",
-		"notification.errorForeground": "#ffffff",
 		"terminal.background": "#272927",
 		"terminal.foreground": "#676d76",
 		"editorGutter.modifiedBackground": "#f7b83d",
@@ -129,9 +119,9 @@
 	},
 	"tokenColors": [
 		{
+			"scope": "settings",
 			"settings": {
-				"foreground": "#5f656dff",
-				"background": "#27292bff"
+				"foreground": "#5f656dff"
 			}
 		},
 		{
@@ -288,7 +278,6 @@
 			"name": "Invalid",
 			"scope": "invalid",
 			"settings": {
-				"background": "#664e4d",
 				"foreground": "#cf433e",
 				"fontStyle": ""
 			}
@@ -297,7 +286,6 @@
 			"name": "Invalid deprecated",
 			"scope": "invalid.deprecated",
 			"settings": {
-				"background": "#664e4d",
 				"foreground": "#cf433e"
 			}
 		},
@@ -383,7 +371,7 @@
 			"name": "Function argument",
 			"scope": "meta.property-name support.type.property-name",
 			"settings": {
-				"fontStyle": "normal"
+				"fontStyle": "italic"
 			}
 		},
 		{
@@ -416,7 +404,7 @@
 			],
 			"settings": {
 				"foreground": "#3c4044",
-				"fontStyle": "normal"
+				"fontStyle": "italic"
 			}
 		},
 		{
@@ -424,7 +412,7 @@
 			"scope": "variable.other",
 			"settings": {
 				"foreground": "#727982",
-				"fontStyle": "normal"
+				"fontStyle": "italic"
 			}
 		},
 		{
